@@ -1,0 +1,42 @@
+body, html {
+    height: 100%;
+  }
+  .bg {
+    /* The image used */
+    background-image: url(../imgs/sidekix-media-I_QC1JICzA0-unsplash.jpg);
+    /* opacity: 50%; */
+  
+    /* Full height */
+    height: 100%;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+  }
+
+  .hr {
+    color: darkorange;
+  }
+
+  .text-bg {
+    background-color: orange;
+    opacity: 50%;
+    
+  }
+
+  .text-shadow {
+    text-shadow: 2px 2px 3px #555555;
+
+  }
+
+  h1 {
+    font-weight: 500;
+  }
+
+  .cta-btn {
+    padding: 20px 75px;
+    font-size: x-large;
+
+  }
