@@ -6,7 +6,6 @@ import CTA3Cards from '../components/material-cards'
 
 export default () => (
     <Layout>
-        <h1>Test</h1>
         <CTA4Cards />
         <CTA3Cards />
         <div className="p-5">
